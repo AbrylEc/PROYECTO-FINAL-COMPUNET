@@ -1,0 +1,10 @@
+com\compunet\controlador\ClientesServlet.class
+com\compunet\modelo\Proveedores.class
+com\compunet\config\CBDD.class
+com\compunet\modelo\Productos.class
+com\compunet\config\PruebaConexion.class
+com\compunet\controlador\ProductosServlet.class
+com\compunet\controlador\UsuariosServlet.class
+com\compunet\modelo\Usuarios.class
+com\compunet\controlador\ProveedoresServlet.class
+com\compunet\modelo\Clientes.class
